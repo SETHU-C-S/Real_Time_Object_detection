@@ -49,9 +49,7 @@ Example usage of the provided scripts:
 
 Contributions and feedback are welcome! Feel free to submit pull requests, open issues, or reach out with any questions or suggestions. Let's collaborate to enhance real-time object detection capabilities using YOLOv5!
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
